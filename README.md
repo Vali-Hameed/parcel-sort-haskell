@@ -1,4 +1,4 @@
-# **parcel-sort-haskell**
+# **Parcel Sort CLI Haskell**
 
 This is a Haskell-based command-line application designed to process, classify, sort, and bundle mail items based on their physical dimensions, weight, and destination.
 
